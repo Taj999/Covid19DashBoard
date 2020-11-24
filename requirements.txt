@@ -1,0 +1,7 @@
+jupyterlab
+requests
+pandas
+textblob
+matplotlib
+numpy
+voila
